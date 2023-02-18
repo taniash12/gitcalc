@@ -1,0 +1,8 @@
+Qu'est-ce que la programmation orientée objet ?
+
+
+L'objectif principal de la programmation orientée objet (POO) est de créer des "objets". Une collection de variables et de fonctions interdépendantes forme un objet.  
+Ces variables sont souvent appelées les attributs de l'objet et ses comportements sont souvent appelés ses fonctions. Ces éléments donnent à l'application une structure plus efficace et compréhensible. Une voiture est un exemple de chose.
+Si une voiture était une chose, ses attributs incluraient des éléments tels que sa couleur, son modèle, son prix, sa marque, etc. De plus, il accélérerait, décélérerait et changerait de vitesse.
+Autre illustration : si on considère un chien comme une chose, alors certaines de ses caractéristiques peuvent être le couleur, la race, le nom, le poids, etc. Et il bouge, aboie, joue, etc.
+Parce qu'il intègre des concepts du monde réel comme les objets, la dissimulation, l'héritage, etc. En programmation, la programmation orientée objet est bien connue. Parce qu'il est si similaire aux circonstances de la vie réelle, la visualisation est simplifiée.
