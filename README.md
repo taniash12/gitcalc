@@ -1,2 +1,0 @@
-"# gitcalc" 
-git init
